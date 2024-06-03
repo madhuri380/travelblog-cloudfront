@@ -1,4 +1,4 @@
 # travelblog-cloudfront
  Deploy Static Website - AWS Cloudfront
 
-![Alt text](./travelblog-website/post-deployment-verification.png?raw=true "Personal Blog")
+![alt text](https://github.com/madhuri380/travelblog-cloudfront/blob/main/travelblog-website/post-deployment-verification.png)
